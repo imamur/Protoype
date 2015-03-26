@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 65ffa62a61b62094eb92b228789922ee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack1_0
+    21300002: attack1_1
+    21300004: attack1_2
+    21300006: attack1_3
+    21300008: attack1_4
+    21300010: attack1_5
+    21300012: attack1_6
+    21300014: attack1_7
+    21300016: attack1_8
+    21300018: attack1_9
+    21300020: attack1_10
+    21300022: attack1_11
+    21300024: attack1_12
+    21300026: attack1_13
+    21300028: attack1_14
+    21300030: attack1_15
+    21300032: attack1_16
+    21300034: attack1_17
+    21300036: attack1_18
+    21300038: attack1_19
+    21300040: attack1_20
+    21300042: attack1_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: attack1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 72
+        width: 37
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 41
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 75
+        width: 42
+        height: 43
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 36
+        height: 43
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 75
+        width: 46
+        height: 45
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 75
+        width: 43
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 75
+        width: 42
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 75
+        width: 41
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 75
+        width: 41
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 75
+        width: 39
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 75
+        width: 50
+        height: 46
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_11
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 75
+        width: 46
+        height: 47
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 59
+        height: 54
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 37
+        height: 54
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9
+        width: 42
+        height: 43
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 9
+        width: 36
+        height: 43
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 9
+        width: 46
+        height: 45
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 9
+        width: 52
+        height: 45
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 9
+        width: 52
+        height: 45
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 9
+        width: 39
+        height: 45
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_20
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 9
+        width: 26
+        height: 49
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attack1_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 9
+        width: 32
+        height: 45
+      alignment: 4
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
